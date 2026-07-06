@@ -169,7 +169,6 @@ cifar10-image-classification-pytorch/
 ├── data/
 ├── notebooks/
 │   └── cifar10_cnn.ipynb
-├── images/
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
